@@ -1,1 +1,3 @@
-# colour_sensor_workshop
+# Lego Mindstorms Programming Workshop
+
+Created by Tom Dack (UKRI STFC)
